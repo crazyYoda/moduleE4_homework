@@ -1,7 +1,7 @@
 // Переписать консольное приложение из предыдущего юнита на классы.
 
 
-// родительская функция электроприборов
+// родительский класс электроприборов
 class ElectricalAppliance {
     constructor(name) {
         this.typeOfEquipment = 'Electrical appliance',
